@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>App by Kastro</title>
+<title>Yaseer's App</title>
 <link rel="stylesheet" href = "images/bootstrap.css">
 
 <link rel="stylesheet" href="Css/w3.css">
